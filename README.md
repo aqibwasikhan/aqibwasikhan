@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, MongoDB, Express.js, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aqibwasikhan43](https://github.com/aqibwasikhan43)
+- 👨‍💻 All of my projects are available at [https://github.com/aqibwasikhan43?tab=repositories](https://github.com/aqibwasikhan43?tab=repositories)
 
 - 💬 Ask me about **React.js, React Native, Javascript**
 
